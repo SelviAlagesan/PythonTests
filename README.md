@@ -7,5 +7,5 @@
  4. Fibonacci Series
  5. Find Largest number in a list
  6. Merge two lists Sort
- 
+ 7. Removing duplicate from the list 
  
